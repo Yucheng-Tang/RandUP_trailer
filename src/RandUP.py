@@ -1,3 +1,17 @@
+"""
+
+Sampling based reachability analysis for a tractor-trailer system
+
+Robot model: differential driven mobile robot with passive trailer, reference point on the trailer
+
+State variable: (x2, y2, theta1, theta2)
+Control input variable: (v1, w1)
+
+author: Yucheng Tang (@Yucheng-Tang)
+
+RandUP: https://github.com/StanfordASL/RandUP
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import math
