@@ -23,7 +23,7 @@ import scipy.spatial
 # Define constants
 v_limit = 0.2
 ang_limit = 30.0
-time_interval = 50
+time_interval = 100
 DT = 0.1
 
 # Vehicle parameters

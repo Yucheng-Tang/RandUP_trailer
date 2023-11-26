@@ -2,4 +2,8 @@ numpy
 scipy
 matplotlib
 shapely
-sklearn
+scikit-learn
+alphashape
+torch
+openpyxl
+
